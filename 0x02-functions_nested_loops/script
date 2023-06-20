@@ -6,6 +6,10 @@ cd alx-low_level_programming
 mkdir 0x02-functions_nested_loops
 cd 0x02-functions_nested_loops
 
+cat << 'EOF' > README.md
+wlh 7ta hna naddiiin bzf
+EOF
+
 cat << 'EOF' > 0-putchar.c
 #include "main.h"
 

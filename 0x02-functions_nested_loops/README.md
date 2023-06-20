@@ -1,1 +1,1 @@
-functions dyali wlh hta zwinin
+wlh 7ta hna naddiiin bzf
